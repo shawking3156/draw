@@ -1,6 +1,4 @@
 # draw
-微信AI绘画小程序，心作AI绘画，使用原生小程序代码完成，不包含其他框架。
-
  项目简介
 
 微信小程序搜：心作AI绘画，可在线体验。
@@ -31,7 +29,7 @@
 
  联系方式
 
-如果需要源码请E-Mail联系：[1343480152@qq.com]。
+如需要源码请E-Mail联系：[1343480152@qq.com]。
 
 可手把手教学部署小程序客户端，服务端相关问题。
 
@@ -40,9 +38,9 @@
 效果如图下：
 
 
-![image](https://github.com/shawking3156/draw/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211160453.jpg)
-![image](https://github.com/shawking3156/draw/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211161406.jpg)
-![image](https://github.com/shawking3156/draw/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211162219.jpg)
-![image](https://github.com/shawking3156/draw/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211161400.jpg)
-![image](https://github.com/shawking3156/draw/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211161450.jpg)
-![image](https://github.com/shawking3156/draw/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211161458.jpg)
+![image](https://github.com/shawking3156/draw/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211160453.jpg){width=50%,height=50%}
+![image](https://github.com/shawking3156/draw/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211161406.jpg){width=50%,height=50%}
+![image](https://github.com/shawking3156/draw/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211162219.jpg){width=50%,height=50%}
+![image](https://github.com/shawking3156/draw/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211161400.jpg){width=50%,height=50%}
+![image](https://github.com/shawking3156/draw/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211161450.jpg){width=50%,height=50%}
+![image](https://github.com/shawking3156/draw/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211161458.jpg){width=50%,height=50%}
