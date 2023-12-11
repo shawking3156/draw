@@ -37,6 +37,8 @@
 
 效果如图下：
 
+ <img src="https://github.com/shawking3156/draw/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211160453.jpg" width="50%" height="50%"/>
+
 
 ![image](https://github.com/shawking3156/draw/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211160453.jpg){width=50%,height=50%}
 ![image](https://github.com/shawking3156/draw/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211161406.jpg){width=50%,height=50%}
